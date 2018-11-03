@@ -23,3 +23,12 @@ sudo bash ./install/brave.sh
 
 # VS Code
 sudo bash ./install/vscode.sh
+
+# Nginx
+sudo bash ./install/nginx.sh
+
+# NodeJS
+sudo bash ./install/nodejs.sh
+
+# Gulp
+sudo bash ./install/gulp.sh
