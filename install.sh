@@ -1,5 +1,12 @@
+# Configure
+# Screen Resolution 1920x1080
+
 # Uninstall
+
+# Firefox
 sudo bash ./purge/firefox.sh
+
+# Thunderbird
 
 # Install
 
