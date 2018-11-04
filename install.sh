@@ -32,3 +32,9 @@ sudo bash ./install/nodejs.sh
 
 # Gulp
 sudo bash ./install/gulp.sh
+
+# PHP
+sudo bash ./install/php.sh
+
+# Laravel
+sudo bash ./install/laravel.sh
